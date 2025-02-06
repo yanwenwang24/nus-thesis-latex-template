@@ -1,0 +1,62 @@
+# LaTeX build files
+*.aux
+*.lof
+*.log
+*.lot
+*.fls
+*.out
+*.toc
+*.fmt
+*.fot
+*.cb
+*.cb2
+*.ptc
+*.xdv
+.*.lb
+
+# BibTeX
+*.bbl
+*.bcf
+*.blg
+*-blx.aux
+*-blx.bib
+*.run.xml
+
+# Build tool auxiliary files
+*.fdb_latexmk
+*.synctex
+*.synctex(busy)
+*.synctex.gz
+*.synctex.gz(busy)
+*.pdfsync
+
+# Beamer
+*.nav
+*.pre
+*.snm
+*.vrb
+
+# Changes and backup files
+*.soc
+*.cut
+*.cpt
+*.spl
+*.dvi
+*.ps
+*.ent
+*.tmp
+*~
+*.bak
+
+# Generated PDFs (optional, uncomment if you don't want to track PDFs)
+# *.pdf
+
+# Editor specific files
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+
+# Build error files
+*-SAVE-ERROR
