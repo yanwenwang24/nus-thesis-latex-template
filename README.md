@@ -2,9 +2,9 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-A LaTeX dissertation template for thesis at National University of Singapore (NUS).
+An up-to-date LaTeX template for thesis at National University of Singapore (NUS).
 
-The template conforms to the National University of Singapore's (NUS) stylesheet as documented in [*General Guidelines on Format of Research Thesis Submitted For Examination*](./nus-guielines.pdf).
+The template conforms to the latest National University of Singapore's (NUS) stylesheet as documented in [*General Guidelines on Format of Research Thesis Submitted For Examination*](./nus-guidelines.pdf).
 
 ## Organization
 
