@@ -6,6 +6,8 @@ An up-to-date LaTeX template for thesis at National University of Singapore (NUS
 
 The template conforms to the latest National University of Singapore's (NUS) stylesheet as documented in [*General Guidelines on Format of Research Thesis Submitted For Examination*](./nus-guidelines.pdf).
 
+The template has now been included in [Overleaf's Gallery](https://www.overleaf.com/latex/templates/nus-thesis-latex-template/njfbnywvcqvc).
+
 ## Organization
 
 The template is organized as follows:
